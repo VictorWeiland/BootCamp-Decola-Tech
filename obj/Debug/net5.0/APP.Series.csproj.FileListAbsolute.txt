@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.exe
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.deps.json
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.runtimeconfig.json
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.runtimeconfig.dev.json
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.dll
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\ref\APP.Series.dll
+C:\Users\pc\Desktop\APP.Series\bin\Debug\net5.0\APP.Series.pdb
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.AssemblyInfo.cs
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.dll
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\ref\APP.Series.dll
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.pdb
+C:\Users\pc\Desktop\APP.Series\obj\Debug\net5.0\APP.Series.genruntimeconfig.cache
